@@ -21,7 +21,6 @@ To show that:
    - by finding optimal orthogonal transformatino using SVD
  - precision function is created to estimate the quality of transformation
  - simple word-based translator is made
-**Additionally:
+**Additionally**:
   - russian and ukranian fastText embeddings are loaded
   - the size of vocabulary for fastText embeddings is approx 3 times bigger than for gensim embeddings, so the quality of translation became better
-**
