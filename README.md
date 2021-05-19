@@ -1,2 +1,1 @@
-# nlp_yandex
-NLP yandex
+Investigation of NLP techniques based on Yandex NLP Course with my modifications
