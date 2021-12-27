@@ -1,1 +1,1 @@
-Investigation of NLP techniques based on Yandex NLP Course with my modifications
+Investigation of NLP techniques
