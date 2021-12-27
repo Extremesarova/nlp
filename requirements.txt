@@ -1,0 +1,7 @@
+ipykernel==6.6.0
+nltk
+gensim
+bokeh
+numpy==1.19.5
+scikit-learn==0.24.2
+gensim==4.1.2
